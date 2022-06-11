@@ -1,4 +1,4 @@
-node('built-in node')
+node('built-in')
 
 {
 
